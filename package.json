@@ -1,5 +1,5 @@
 {
-  "name": "friend.ly2",
+  "name": "friend.ly",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "aws-sdk": "^2.958.0",
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
+    "check-update-github": "^0.0.4",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "favicon": "^0.0.2",

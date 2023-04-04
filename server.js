@@ -8,6 +8,7 @@ const socketIO = require('socket.io')
 const cors = require('cors');
 const server = http.createServer(app)
 const io = socketIO(server)
+
 app.use(cors())
 
 let users = [];
